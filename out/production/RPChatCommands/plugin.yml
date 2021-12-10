@@ -1,0 +1,14 @@
+main: me.n_a_t_t_y.rpchatcommands.RPChatCommands
+name: RPChatCommands
+version: 1.0
+api-version: 1.16
+commands:
+  tweet:
+    description: Sends a chat message as a Tweet with specified text.
+    aliases: [tweet, tw]
+  ooc:
+    description: Send an OOC chat message with specified text
+    aliases: [ooc]
+  toggletweets:
+    description: Toggles wether the player wants to receive Tweets. Saved in config.yml
+    aliases: [tweets]

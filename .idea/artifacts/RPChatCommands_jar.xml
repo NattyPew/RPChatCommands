@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RPChatCommands:jar">
+    <output-path>$PROJECT_DIR$/../../server/plugins</output-path>
+    <root id="archive" name="RPChatCommands.jar">
+      <element id="module-output" name="RPChatCommands" />
+    </root>
+  </artifact>
+</component>
